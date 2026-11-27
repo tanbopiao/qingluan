@@ -1,0 +1,7 @@
+HTTPie CLI
+Copyright © 2012-2022 Jakub Roztocil and upstream contributors
+
+This project is a community revival of the upstream HTTPie CLI project
+(https://github.com/httpie/cli), maintained under the original BSD
+3-Clause license. Upstream copyright and license are preserved in full;
+see LICENSE.
