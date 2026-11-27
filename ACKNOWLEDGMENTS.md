@@ -1,6 +1,6 @@
 # Acknowledgments
 
-This revival exists because of the upstream community. HTTPie was created by Jakub Roztocil and shaped by hundreds of contributors. When the upstream project went quiet, its community kept submitting fixes and features — every open pull request and issue at the time of the fork is honored here by name.
+**Qingluan (青鸾)** — named for the divine messenger bird of Chinese legend, the one that carries letters between worlds. This revival exists because of the upstream community. HTTPie was created by Jakub Roztocil and shaped by hundreds of contributors. When the upstream project went quiet, its community kept submitting fixes and features — every open pull request and issue at the time of the fork is honored here by name.
 
 ## Pull request authors (137)
 

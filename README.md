@@ -1,11 +1,12 @@
 <h2 align="center">
     <br>
-    HTTPie CLI (community revival)
+    青鸾 Qingluan — HTTPie CLI (community revival)
     <br>
     Human-friendly HTTP client for the API era
 </h2>
 
 <p align="center">
+  <a href="#why-qingluan">Why Qingluan</a> •
   <a href="#revival-status">Revival status</a> •
   <a href="#installation">Installation</a> •
   <a href="#usage">Usage</a> •
@@ -14,6 +15,8 @@
 </p>
 
 ---
+
+**Why Qingluan (青鸾)?** In Chinese legend, the qingluan is the divine messenger bird of the Queen Mother of the West — the bird that carries letters. An HTTP client is exactly that: a messenger that carries your requests and brings back answers. The name honors the tool's essence.
 
 This is a **community revival** of the [HTTPie CLI](https://github.com/httpie/cli) — the human-friendly command-line HTTP client for the API era, with intuitive syntax, JSON support, sessions, downloads, and plugins.
 
